@@ -10,10 +10,5 @@ Hey, I'm Mio, a german student, in my spare time I like to make unique things ar
 
 <hr>
 
-### 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MioArchive&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MioArchive&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=MioArchive&icon=0&color=1)](https://visitcount.itsvg.in)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MioArchive&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
